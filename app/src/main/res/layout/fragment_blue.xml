@@ -11,6 +11,4 @@
         android:layout_height="wrap_content"
         android:text="BLUE FRAGMENT"
         android:textSize="30sp" />
-
-
 </FrameLayout>
